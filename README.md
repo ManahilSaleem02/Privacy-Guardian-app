@@ -4,7 +4,7 @@ A client-side web application that helps users understand what personal informat
 
 Built as a student project for **Secure Software Design and Development (SSDD)**.
 
-**Live demo:** https://YOUR-USERNAME.github.io/privacy-guardian/
+**Live demo:** https://Manahil.github.io/privacy-guardian/
 
 ---
 
